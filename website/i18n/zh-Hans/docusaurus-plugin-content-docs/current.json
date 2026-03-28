@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Invocation": {
+    "message": "Invocation",
+    "description": "The label for category Invocation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Compatibility": {
+    "message": "Compatibility",
+    "description": "The label for category Compatibility in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Commands": {
+    "message": "Commands",
+    "description": "The label for category Commands in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Queries": {
+    "message": "Queries",
+    "description": "The label for category Queries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Expression Terms": {
+    "message": "Expression Terms",
+    "description": "The label for category Expression Terms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Internals": {
+    "message": "Internals",
+    "description": "The label for category Internals in sidebar tutorialSidebar"
+  }
+}

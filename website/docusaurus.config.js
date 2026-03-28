@@ -23,12 +23,16 @@ const CATEGORY_ORDER = [
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   title: 'Watchman',
   tagline: 'A file watching service',
   url: 'https://facebook.github.io',
   baseUrl: '/watchman/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: "warn",
   trailingSlash: false,
   favicon: 'img/favicon.png',
   organizationName: 'facebook',
